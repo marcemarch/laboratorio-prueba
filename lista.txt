@@ -3,3 +3,5 @@ esto es una nueva lista de git
 2. adry
 3. fari
 4. roro
+5. willy
+6. marly
