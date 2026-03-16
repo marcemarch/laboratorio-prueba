@@ -5,3 +5,8 @@ esto es una nueva lista de git
 4. roro
 5. willy
 6. marly
+7. fanny
+8. oliver
+9. tonella
+10. fanny
+11. oliver
